@@ -1,0 +1,3 @@
+KH1;;1;;925;;AuCo;;TanSonNhi;;TanPhu;;HCM
+KH2;;1;;51;;NguyenThong;;9;;3;;HCM
+KH1;;2;;123;;TruongChinh;;3;;TanBinh;;HCM
